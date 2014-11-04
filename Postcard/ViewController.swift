@@ -31,7 +31,7 @@ class ViewController: UIViewController {
 
     
     @IBAction func sendMailButtonPressed(sender: UIButton) {
-        // Code will evaluate when we press the button
+        // Code will evaluate when we press the send mail button
         
         // Hidden label to display message text
         messageLabel.hidden = false
